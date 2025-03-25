@@ -2,7 +2,7 @@
 A C++ implementation of fluid simulation using OpenCV library. This project demonstrates fluid dynamics by creating realistic fluid-like movements and visualizations. Additionally, it provides functionality to generate base64 string representations of the fluid simulation images, which can be used according to your specific requirements.
 
 ## Demo
-![Fluid Simulation Demo](demo/fluid_simulation_demo.mp4)
+![Fluid Simulation Demo](demo/fluid_simulation_demo.gif)
 
 ## Requirements
 - C++ compiler
